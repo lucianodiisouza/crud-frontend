@@ -18,4 +18,4 @@ PUT /usuario/
 DELETE /usuario/
 
 ## Screenshots
-// ![ScreenShot 01](https://github.com/lucianodiisouza/react-dashboard/blob/master/screenshots/screenshot_01.png)
+// ![ScreenShot 01](https://github.com/lucianodiisouza/crud-frontend/blob/master/Screenshot01_Frontend.png)
